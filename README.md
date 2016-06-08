@@ -1,5 +1,8 @@
 # introduction
 
+这个是对于php的mail函数的简单封装， 支持发件人， 收件人， 添加附件
+
+感谢郭老师提供最初的源码
 this is a simple encapsulation of php mail function
 
 ---
